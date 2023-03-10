@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(24, 24, 24);
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.container {
+    position: absolute;
+    background-color: rgb(39, 40, 41);
+    border-radius: 10px;
+    top: 35%;
+    height: 400px;
+    width: 700px;
+    text-align: center;
+    left: 700px;
+    padding: 10px;
+    color: blanchedalmond;
+}
+.napis-dol {
+    position: absolute;
+    top: 90%;
+    text-align: center;
+    left: 1000px;
+    padding: 10px;
+    color: blanchedalmond;
+}
